@@ -12,6 +12,6 @@ jobs:
     steps:
       - name: Retrieve number of posts indexed in the last 24 hours
         run: | 
-          curl -Ss "https://fakerelay.gervas.io/index-posts-count?period=24h" \
+          curl -Ss "https://relay.katze.network/index-posts-count?period=24h" \
             -H 'Authorization: Bearer ${{ secrets.FAKERELAY_APIKEY }}'
         shell: bash
