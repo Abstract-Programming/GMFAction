@@ -1,5 +1,5 @@
 {
     "FakeRelayUrl": "https://relay.katze.network",
-    "Tags": [ "tech", "furry", "fursuit", "meme", "funny", "java", "music", "tor", "security", "malware", "infosec", "devops", "dev", "art" ],
+    "Tags": [ "tech", "furry", "fursuit", "meme", "funny", "java", "music", "tor", "security", "malware", "infosec", "devops", "dev", "art", "java" ],
     "Instances": [ "tech.lgbt", "mastodon.social", "meow.social", "allthingstech.social", "fosstodon.org", "infosec.exchange"]
 }
